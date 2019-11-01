@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Exception.php" server="martendalimoveis.com.br//var/www/html/" local="132171026500819402" remote="132170974800000000" Dst="1" />
+<file name="CoveredCodeNotExecutedException.php" server="martendalimoveis.com.br//var/www/html/" local="132171026500289410" remote="132170974800000000" Dst="1" />
+<file name="InvalidArgumentException.php" server="martendalimoveis.com.br//var/www/html/" local="132171026501349395" remote="132170974800000000" Dst="1" />
+<file name="MissingCoversAnnotationException.php" server="martendalimoveis.com.br//var/www/html/" local="132171026502159417" remote="132170974800000000" Dst="1" />
+<file name="RuntimeException.php" server="martendalimoveis.com.br//var/www/html/" local="132171026502409433" remote="132170974800000000" Dst="1" />
+<file name="UnintentionallyCoveredCodeException.php" server="martendalimoveis.com.br//var/www/html/" local="132171026503209410" remote="132170974800000000" Dst="1" />
+</dwsync>

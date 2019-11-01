@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="And.php" server="martendalimoveis.com.br//var/www/html/" local="132171026627134818" remote="132170975400000000" Dst="1" />
+<file name="ArrayHasKey.php" server="martendalimoveis.com.br//var/www/html/" local="132171026624424800" remote="132170975400000000" Dst="1" />
+<file name="ArraySubset.php" server="martendalimoveis.com.br//var/www/html/" local="132171026625504807" remote="132170975400000000" Dst="1" />
+<file name="Callback.php" server="martendalimoveis.com.br//var/www/html/" local="132171026626884838" remote="132170975400000000" Dst="1" />
+<file name="ClassHasAttribute.php" server="martendalimoveis.com.br//var/www/html/" local="132171026627134818" remote="132170975400000000" Dst="1" />
+<file name="Attribute.php" server="martendalimoveis.com.br//var/www/html/" local="132171026625754813" remote="132170975400000000" Dst="1" />
+<file name="ClassHasStaticAttribute.php" server="martendalimoveis.com.br//var/www/html/" local="132171026628494823" remote="132170975400000000" Dst="1" />
+<file name="Composite.php" server="martendalimoveis.com.br//var/www/html/" local="132171026628494823" remote="132170975400000000" Dst="1" />
+<file name="Count.php" server="martendalimoveis.com.br//var/www/html/" local="132171026628514838" remote="132170975400000000" Dst="1" />
+<file name="Exception.php" server="martendalimoveis.com.br//var/www/html/" local="132171026629884834" remote="132170975400000000" Dst="1" />
+<file name="ExceptionCode.php" server="martendalimoveis.com.br//var/www/html/" local="132171026629924835" remote="132170975400000000" Dst="1" />
+<file name="ExceptionMessage.php" server="martendalimoveis.com.br//var/www/html/" local="132171026629924835" remote="132170975400000000" Dst="1" />
+<file name="ExceptionMessageRegExp.php" server="martendalimoveis.com.br//var/www/html/" local="132171026631254842" remote="132170975400000000" Dst="1" />
+<file name="FileExists.php" server="martendalimoveis.com.br//var/www/html/" local="132171026633804879" remote="132170975400000000" Dst="1" />
+<file name="GreaterThan.php" server="martendalimoveis.com.br//var/www/html/" local="132171026631344846" remote="132170975400000000" Dst="1" />
+<file name="IsAnything.php" server="martendalimoveis.com.br//var/www/html/" local="132171026632724877" remote="132170975400000000" Dst="1" />
+<file name="IsEmpty.php" server="martendalimoveis.com.br//var/www/html/" local="132171026632654850" remote="132170975400000000" Dst="1" />
+<file name="IsEqual.php" server="martendalimoveis.com.br//var/www/html/" local="132171026634024875" remote="132170975400000000" Dst="1" />
+<file name="IsFalse.php" server="martendalimoveis.com.br//var/www/html/" local="132171026634384888" remote="132170975400000000" Dst="1" />
+<file name="IsFinite.php" server="martendalimoveis.com.br//var/www/html/" local="132171026635504877" remote="132170975400000000" Dst="1" />
+<file name="IsIdentical.php" server="martendalimoveis.com.br//var/www/html/" local="132171026635654900" remote="132170975400000000" Dst="1" />
+<file name="IsInfinite.php" server="martendalimoveis.com.br//var/www/html/" local="132171026636324904" remote="132170975400000000" Dst="1" />
+<file name="IsInstanceOf.php" server="martendalimoveis.com.br//var/www/html/" local="132171026637164891" remote="132170975400000000" Dst="1" />
+<file name="IsJson.php" server="martendalimoveis.com.br//var/www/html/" local="132171026637164891" remote="132170975400000000" Dst="1" />
+<file name="IsTrue.php" server="martendalimoveis.com.br//var/www/html/" local="132171026638574912" remote="132170975400000000" Dst="1" />
+<file name="IsNan.php" server="martendalimoveis.com.br//var/www/html/" local="132171026638024909" remote="132170975400000000" Dst="1" />
+<file name="IsNull.php" server="martendalimoveis.com.br//var/www/html/" local="132171026638574912" remote="132170975400000000" Dst="1" />
+<file name="IsType.php" server="martendalimoveis.com.br//var/www/html/" local="132171026639714920" remote="132170975400000000" Dst="1" />
+<file name="JsonMatches.php" server="martendalimoveis.com.br//var/www/html/" local="132171026640254932" remote="132170975400000000" Dst="1" />
+<file name="LessThan.php" server="martendalimoveis.com.br//var/www/html/" local="132171026641384907" remote="132170975400000000" Dst="1" />
+<file name="Not.php" server="martendalimoveis.com.br//var/www/html/" local="132171026641964921" remote="132170975400000000" Dst="1" />
+<file name="ObjectHasAttribute.php" server="martendalimoveis.com.br//var/www/html/" local="132171026641944913" remote="132170975400000000" Dst="1" />
+<file name="Or.php" server="martendalimoveis.com.br//var/www/html/" local="132171026643084934" remote="132170975400000000" Dst="1" />
+<file name="PCREMatch.php" server="martendalimoveis.com.br//var/www/html/" local="132171026643334914" remote="132170975400000000" Dst="1" />
+<file name="SameSize.php" server="martendalimoveis.com.br//var/www/html/" local="132171026643334914" remote="132170975400000000" Dst="1" />
+<file name="StringContains.php" server="martendalimoveis.com.br//var/www/html/" local="132171026644694927" remote="132170975400000000" Dst="1" />
+<file name="StringEndsWith.php" server="martendalimoveis.com.br//var/www/html/" local="132171026644714932" remote="132170975400000000" Dst="1" />
+<file name="StringMatches.php" server="martendalimoveis.com.br//var/www/html/" local="132171026644714932" remote="132170975400000000" Dst="1" />
+<file name="TraversableContainsOnly.php" server="martendalimoveis.com.br//var/www/html/" local="132171026646174927" remote="132170975400000000" Dst="1" />
+<file name="StringStartsWith.php" server="martendalimoveis.com.br//var/www/html/" local="132171026646084955" remote="132170975400000000" Dst="1" />
+<file name="TraversableContains.php" server="martendalimoveis.com.br//var/www/html/" local="132171026646084955" remote="132170975400000000" Dst="1" />
+<file name="Xor.php" server="martendalimoveis.com.br//var/www/html/" local="132171026647615056" remote="132170975400000000" Dst="1" />
+</dwsync>

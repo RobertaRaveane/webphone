@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="ClassPatchInterface.php" server="martendalimoveis.com.br//var/www/html/" local="132171026447738414" remote="132170974800000000" Dst="1" />
+<file name="DisableConstructorPatch.php" server="martendalimoveis.com.br//var/www/html/" local="132171026448008341" remote="132170974800000000" Dst="1" />
+<file name="HhvmExceptionPatch.php" server="martendalimoveis.com.br//var/www/html/" local="132171026448018349" remote="132170974800000000" Dst="1" />
+<file name="KeywordPatch.php" server="martendalimoveis.com.br//var/www/html/" local="132171026449403533" remote="132170974800000000" Dst="1" />
+<file name="MagicCallPatch.php" server="martendalimoveis.com.br//var/www/html/" local="132171026449453540" remote="132170974800000000" Dst="1" />
+<file name="ProphecySubjectPatch.php" server="martendalimoveis.com.br//var/www/html/" local="132171026449453540" remote="132170974800000000" Dst="1" />
+<file name="ReflectionClassNewInstancePatch.php" server="martendalimoveis.com.br//var/www/html/" local="132171026450833554" remote="132170974800000000" Dst="1" />
+<file name="SplFileInfoPatch.php" server="martendalimoveis.com.br//var/www/html/" local="132171026450903560" remote="132170974800000000" Dst="1" />
+<file name="ThrowablePatch.php" server="martendalimoveis.com.br//var/www/html/" local="132171026450903560" remote="132170974800000000" Dst="1" />
+<file name="TraversablePatch.php" server="martendalimoveis.com.br//var/www/html/" local="132171026452393564" remote="132170974800000000" Dst="1" />
+</dwsync>

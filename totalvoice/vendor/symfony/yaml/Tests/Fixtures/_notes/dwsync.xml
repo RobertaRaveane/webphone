@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="booleanMappingKeys.yml" server="martendalimoveis.com.br//var/www/html/" local="132171027048167313" remote="132170976000000000" Dst="1" />
+<file name="arrow.gif" server="martendalimoveis.com.br//var/www/html/" local="132171027047907520" remote="132170976000000000" Dst="1" />
+<file name="index.yml" server="martendalimoveis.com.br//var/www/html/" local="132171027049621305" remote="132170976000000000" Dst="1" />
+<file name="embededPhp.yml" server="martendalimoveis.com.br//var/www/html/" local="132171027048157306" remote="132170976000000000" Dst="1" />
+<file name="escapedCharacters.yml" server="martendalimoveis.com.br//var/www/html/" local="132171027049501302" remote="132170976000000000" Dst="1" />
+<file name="legacyNullMappingKey.yml" server="martendalimoveis.com.br//var/www/html/" local="132171027051001711" remote="132170976000000000" Dst="1" />
+<file name="legacyBooleanMappingKeys.yml" server="martendalimoveis.com.br//var/www/html/" local="132171027049621305" remote="132170976000000000" Dst="1" />
+<file name="legacyNonStringKeys.yml" server="martendalimoveis.com.br//var/www/html/" local="132171027050951839" remote="132170976000000000" Dst="1" />
+<file name="nonStringKeys.yml" server="martendalimoveis.com.br//var/www/html/" local="132171027054918797" remote="132170976000000000" Dst="1" />
+<file name="multiple_lines_as_literal_block.yml" server="martendalimoveis.com.br//var/www/html/" local="132171027051011690" remote="132170976000000000" Dst="1" />
+<file name="multiple_lines_as_literal_block_leading_space_in_first_line.yml" server="martendalimoveis.com.br//var/www/html/" local="132171027052369971" remote="132170976000000000" Dst="1" />
+<file name="not_readable.yml" server="martendalimoveis.com.br//var/www/html/" local="132171027052379940" remote="132170976000000000" Dst="1" />
+<file name="nullMappingKey.yml" server="martendalimoveis.com.br//var/www/html/" local="132171027053744540" remote="132170976000000000" Dst="1" />
+<file name="numericMappingKeys.yml" server="martendalimoveis.com.br//var/www/html/" local="132171027053764367" remote="132170976000000000" Dst="1" />
+<file name="sfComments.yml" server="martendalimoveis.com.br//var/www/html/" local="132171027055168806" remote="132170976000000000" Dst="1" />
+<file name="sfCompact.yml" server="martendalimoveis.com.br//var/www/html/" local="132171027055168806" remote="132170976000000000" Dst="1" />
+<file name="sfMergeKey.yml" server="martendalimoveis.com.br//var/www/html/" local="132171027056578796" remote="132170976000000000" Dst="1" />
+<file name="sfTests.yml" server="martendalimoveis.com.br//var/www/html/" local="132171027057933479" remote="132170976000000000" Dst="1" />
+<file name="sfObjects.yml" server="martendalimoveis.com.br//var/www/html/" local="132171027056468819" remote="132170976000000000" Dst="1" />
+<file name="sfQuotes.yml" server="martendalimoveis.com.br//var/www/html/" local="132171027056568792" remote="132170976000000000" Dst="1" />
+<file name="YtsBasicTests.yml" server="martendalimoveis.com.br//var/www/html/" local="132171027043385500" remote="132170976000000000" Dst="1" />
+<file name="unindentedCollections.yml" server="martendalimoveis.com.br//var/www/html/" local="132171027057943507" remote="132170976000000000" Dst="1" />
+<file name="YtsAnchorAlias.yml" server="martendalimoveis.com.br//var/www/html/" local="132171027041998693" remote="132170976000000000" Dst="1" />
+<file name="YtsErrorTests.yml" server="martendalimoveis.com.br//var/www/html/" local="132171027045003301" remote="132170976000000000" Dst="1" />
+<file name="YtsBlockMapping.yml" server="martendalimoveis.com.br//var/www/html/" local="132171027043395457" remote="132170976000000000" Dst="1" />
+<file name="YtsDocumentSeparator.yml" server="martendalimoveis.com.br//var/www/html/" local="132171027043665485" remote="132170976000000000" Dst="1" />
+<file name="YtsNullsAndEmpties.yml" server="martendalimoveis.com.br//var/www/html/" local="132171027046477281" remote="132170976000000000" Dst="1" />
+<file name="YtsFlowCollections.yml" server="martendalimoveis.com.br//var/www/html/" local="132171027045153291" remote="132170976000000000" Dst="1" />
+<file name="YtsFoldedScalars.yml" server="martendalimoveis.com.br//var/www/html/" local="132171027045163287" remote="132170976000000000" Dst="1" />
+<file name="YtsTypeTransfers.yml" server="martendalimoveis.com.br//var/www/html/" local="132171027046557296" remote="132170976000000000" Dst="1" />
+<file name="YtsSpecificationExamples.yml" server="martendalimoveis.com.br//var/www/html/" local="132171027046807291" remote="132170976000000000" Dst="1" />
+</dwsync>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="deprecation.tpl.dist" server="martendalimoveis.com.br//var/www/html/" local="132171026893968310" remote="132170976000000000" Dst="1" />
+<file name="mocked_clone.tpl.dist" server="martendalimoveis.com.br//var/www/html/" local="132171026893428315" remote="132170976000000000" Dst="1" />
+<file name="mocked_class.tpl.dist" server="martendalimoveis.com.br//var/www/html/" local="132171026891938312" remote="132170976000000000" Dst="1" />
+<file name="mocked_class_method.tpl.dist" server="martendalimoveis.com.br//var/www/html/" local="132171026892088312" remote="132170976000000000" Dst="1" />
+<file name="mocked_static_method.tpl.dist" server="martendalimoveis.com.br//var/www/html/" local="132171026895048336" remote="132170976000000000" Dst="1" />
+<file name="mocked_method.tpl.dist" server="martendalimoveis.com.br//var/www/html/" local="132171026893448335" remote="132170976000000000" Dst="1" />
+<file name="mocked_method_void.tpl.dist" server="martendalimoveis.com.br//var/www/html/" local="132171026895078359" remote="132170976000000000" Dst="1" />
+<file name="trait_class.tpl.dist" server="martendalimoveis.com.br//var/www/html/" local="132171026896678337" remote="132170976000000000" Dst="1" />
+<file name="proxied_method.tpl.dist" server="martendalimoveis.com.br//var/www/html/" local="132171026895608339" remote="132170976000000000" Dst="1" />
+<file name="proxied_method_void.tpl.dist" server="martendalimoveis.com.br//var/www/html/" local="132171026896438359" remote="132170976000000000" Dst="1" />
+<file name="wsdl_method.tpl.dist" server="martendalimoveis.com.br//var/www/html/" local="132171026898088348" remote="132170976000000000" Dst="1" />
+<file name="unmocked_clone.tpl.dist" server="martendalimoveis.com.br//var/www/html/" local="132171026897268347" remote="132170976000000000" Dst="1" />
+<file name="wsdl_class.tpl.dist" server="martendalimoveis.com.br//var/www/html/" local="132171026898088348" remote="132170976000000000" Dst="1" />
+</dwsync>
